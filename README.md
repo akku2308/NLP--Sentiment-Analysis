@@ -27,17 +27,17 @@ The model classifies reviews into **Positive or Negative sentiments** using TF-I
 ## 📊 Visualizations
 
 ### 1️⃣ Sentiment Class Distribution
-![Sentiment Distribution](NLP Graph.1.png)
+![Sentiment Distribution](Graph.1.png)
 
 ---
 
 ### 2️⃣ Sentiment vs Review Length Analysis
-![Review Length Analysis](NLP Graph.2.png)
+![Review Length Analysis](Graph.2.png)
 
 ---
 
 ### 3️⃣ Model Performance (Confusion Matrix)
-![Confusion Matrix](NLP Graph.3.png)
+![Confusion Matrix](Graph.3.png)
 
 ---
 
