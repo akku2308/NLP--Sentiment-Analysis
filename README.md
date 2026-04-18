@@ -2,19 +2,59 @@
 NLP Sentiment Analysis using Logistic Regression
 # NLP Sentiment Analysis Project
 
-## Description
-This project performs sentiment analysis using Logistic Regression and TF-IDF.
+## 📌 Project Overview
+This project performs **Sentiment Analysis** on text reviews using **Natural Language Processing (NLP)** techniques.  
+The model classifies reviews as **Positive or Negative** using **TF-IDF Vectorization** and **Logistic Regression**.
 
-## Tools Used
+---
+
+## ⚙️ Workflow
+- Data Loading & Exploration
+- Text Cleaning (lowercase, stopwords removal, stemming)
+- Feature Extraction using TF-IDF
+- Model Training using Logistic Regression
+- Model Evaluation using Accuracy & Confusion Matrix
+- Data Visualization
+
+---
+
+## 🧠 Model Used
+- Logistic Regression (Machine Learning Classifier)
+
+---
+
+## 📊 Visualizations
+- Sentiment Distribution (Count Plot)
+- Review Length Analysis (Box Plot)
+- Confusion Matrix Heatmap
+
+---
+
+## 🛠️ Tools & Libraries
 - Python
 - Pandas
+- NumPy
 - Scikit-learn
 - NLTK
 - Seaborn
+- Matplotlib
 
-## Model Accuracy
-~ (tumhari accuracy yahan likho)
+---
 
-## Output
-- Sentiment classification
-- Data visualization
+## 🎯 Model Performance
+- Accuracy: **(yahan apni accuracy likho, e.g. 0.87 / 87%)**
+
+---
+
+## 📦 Output
+- Sentiment Classification (Positive / Negative)
+- Text Preprocessing Pipeline
+- Model Evaluation Metrics
+- Graphical Insights
+
+---
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+python sentiment_analysis.py
