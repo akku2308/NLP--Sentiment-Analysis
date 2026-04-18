@@ -53,7 +53,3 @@ The model classifies reviews as **Positive or Negative** using **TF-IDF Vectoriz
 
 ---
 
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python sentiment_analysis.py
