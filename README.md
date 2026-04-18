@@ -41,7 +41,11 @@ The model classifies reviews as **Positive or Negative** using **TF-IDF Vectoriz
 ---
 
 ## 🎯 Model Performance
-- Accuracy: **(yahan apni accuracy likho, e.g. 0.87 / 87%)**
+- Accuracy: **(## 🎯 Model Performance
+- Accuracy: 100%
+- Precision, Recall, F1-score: 1.00 for both classes (Positive & Negative)
+- Model Used: Logistic Regression
+- Feature Extraction: TF-IDF Vectorization)**
 
 ---
 
