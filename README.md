@@ -42,7 +42,7 @@ The model classifies reviews as **Positive or Negative** using **TF-IDF Vectoriz
 
 ## 🎯 Model Performance
 - Accuracy: **(## 🎯 Model Performance
-- Accuracy: 100%
+-- Accuracy: 100%
 - Precision, Recall, F1-score: 1.00 for both classes (Positive & Negative)
 - Model Used: Logistic Regression
 - Feature Extraction: TF-IDF Vectorization)**
