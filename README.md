@@ -1,6 +1,5 @@
 # NLP--Sentiment-Analysis
 NLP Sentiment Analysis using Logistic Regression
-# NLP Sentiment Analysis Project
 
 ## 📌 Project Overview
 This project performs **Sentiment Analysis** on text reviews using **Natural Language Processing (NLP)** techniques.  
