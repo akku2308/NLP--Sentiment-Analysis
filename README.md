@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+https://nlp--sentiment-analysis-6tibxrux9zsmwm698lxf8c.streamlit.app/
+
+
 # NLP--Sentiment-Analysis
 NLP Sentiment Analysis using Logistic Regression
 # NLP Sentiment Analysis Project
